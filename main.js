@@ -34,3 +34,4 @@ const lifetimeSupplyCalculator = (name, currentAge, maxAge, amountPerWeek) => {
   console.log(message2);
   console.log(message3);
   
+  
